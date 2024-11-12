@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:  
 
@@ -14,6 +14,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
+latest_posts: false #include latest post 
 social: true # includes social icons at the bottom of the page
 ---
 
