@@ -9,7 +9,7 @@ profile:
   image: prof-pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[thwu.work@berkeley.edu](thwu.work@berkeley.edu)</p>
+    <p>thwu.work@berkeley.edu</p>
     <p>Tempe, AZ 85282</p>
 
 news: false # includes a list of news items
